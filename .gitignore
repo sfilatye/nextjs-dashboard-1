@@ -19,6 +19,9 @@
 .DS_Store
 *.pem
 
+# tokens and secrets
+git_token
+
 # debug
 npm-debug.log*
 yarn-debug.log*
